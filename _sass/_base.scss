@@ -260,7 +260,8 @@ a {
 .wb-amr { @include home-work-blocks (grid-amrag);}
 .grid-denim { @include home-grid-block-tall (grid-denim);}
 .work-fapreview { @include home-work-blocks (grid-fapreview);}
-.work-prints { @include home-work-blocks (grid-prints);}
+.wb-prints { @include home-work-blocks (grid-prints);}
+.wb-wrapped { @include home-work-blocks (HUDSON-FW14-PR-Look-Book-Lo-Res_page23_image7);}
 .work-block4 { @include home-work-blocks (mens-preview-25463910_max);}
 
 
